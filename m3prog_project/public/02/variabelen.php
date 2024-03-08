@@ -9,7 +9,7 @@ $auto2 ="BMW";
 echo $auto2;
 
 
-$_naam	= "Dennis";
+$_naam	= "Joost";
 echo $_naam;
 
 $naw = "?";

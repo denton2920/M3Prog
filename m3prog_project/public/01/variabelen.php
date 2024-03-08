@@ -1,6 +1,6 @@
 <?php
 $naam = "Dennis";
-$woonplaats = "Assendelft";
+$woonplaats = "Zaanstad";
 $leeftijd = 20; 
 $huidigeTemperatuur = 6.4;
 $lekkereTemperatuur = "brrrr";
